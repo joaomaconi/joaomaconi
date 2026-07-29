@@ -95,7 +95,7 @@ These applications include:
 ## 🤝 Let's connect
 
 * 🌐 [Portfolio](https://joao-maconi-portfolio.web.app)
-* 💼 LinkedIn: (https://www.linkedin.com/in/joao-vagner-maconi/)
+* 💼 LinkedIn: https://www.linkedin.com/in/joao-vagner-maconi/
 * 📧 Email: jvmaconi@gmail.com
 
 ---
